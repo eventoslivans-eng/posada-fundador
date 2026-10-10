@@ -1,0 +1,575 @@
+{
+  "meta": {
+    "rev": "original"
+  },
+  "site": {
+    "brand": "Posada del Fundador",
+    "title": "Posada del Fundador · Casa alpina en Yanahuara, Arequipa",
+    "description": "Casa alpina de cristal y madera en Yanahuara, Arequipa, con piscina, terraza y parrilla. Escapadas, reuniones y momentos inolvidables para hasta 50 personas.",
+    "ogTitle": "Posada del Fundador · Tu experiencia, nuestra historia",
+    "ogDescription": "Casa alpina de cristal y madera en Yanahuara, Arequipa. Piscina, terraza, parrilla y momentos inolvidables.",
+    "whatsapp": "51982000068",
+    "hello": "Hola, quisiera información sobre la casa alpina de la Posada del Fundador.",
+    "floatingWhatsapp": true,
+    "loader": {
+      "enabled": true,
+      "monogram": "PF",
+      "name": "Posada del Fundador",
+      "tagline": "Tu experiencia, nuestra historia"
+    },
+    "modalButton": "Escríbenos por WhatsApp"
+  },
+  "theme": {
+    "preset": "dorado",
+    "fontPreset": "clasico",
+    "colors": {
+      "ink": "#0c0d10",
+      "panel": "#15171c",
+      "line": "#2a2c33",
+      "gold": "#c8a24a",
+      "gold2": "#e6cf94",
+      "cream": "#f1e8d3",
+      "mute": "#a9a597",
+      "onGold": "#17130a"
+    },
+    "mode": "dark",
+    "fonts": {
+      "heading": "Playfair Display",
+      "script": "Great Vibes",
+      "body": "Jost"
+    },
+    "baseSize": 17,
+    "radius": 8,
+    "buttons": "pill",
+    "heroDim": 100
+  },
+  "menu": [
+    {
+      "label": "Inicio",
+      "target": "inicio"
+    },
+    {
+      "label": "Por qué visitarnos",
+      "target": "razones"
+    },
+    {
+      "label": "Conoce los espacios",
+      "target": "espacios"
+    },
+    {
+      "label": "Elige tu experiencia",
+      "target": "alquiler"
+    },
+    {
+      "label": "Momentos inolvidables",
+      "target": "eventos"
+    },
+    {
+      "label": "Preguntas frecuentes",
+      "target": "faq"
+    },
+    {
+      "label": "Cómo llegar",
+      "target": "llegar"
+    },
+    {
+      "label": "Condiciones de reserva",
+      "target": "condiciones"
+    },
+    {
+      "label": "Fechas y precios",
+      "target": "consulta"
+    }
+  ],
+  "sections": [
+    {
+      "id": "hero",
+      "visible": true
+    },
+    {
+      "id": "intro",
+      "visible": true
+    },
+    {
+      "id": "why",
+      "visible": true
+    },
+    {
+      "id": "gallery",
+      "visible": true
+    },
+    {
+      "id": "packs",
+      "visible": true
+    },
+    {
+      "id": "events",
+      "visible": true
+    },
+    {
+      "id": "faq",
+      "visible": true
+    },
+    {
+      "id": "location",
+      "visible": true
+    },
+    {
+      "id": "contact",
+      "visible": true
+    }
+  ],
+  "hero": {
+    "kicker": "Hola, la Posada del Fundador te da la bienvenida",
+    "title": "Tu casa alpina de cristal y madera",
+    "text": "Un refugio de cristal y madera entre jardines, piscina y terraza con vista a los cerros. Ven a descansar, celebrar y crear recuerdos que se quedan contigo.",
+    "images": [
+      {
+        "src": "portada-1.jpg",
+        "x": 55,
+        "y": 50,
+        "alt": ""
+      },
+      {
+        "src": "portada-2.jpg",
+        "x": 56,
+        "y": 50,
+        "alt": ""
+      },
+      {
+        "src": "portada-3.jpg",
+        "x": 48,
+        "y": 50,
+        "alt": ""
+      },
+      {
+        "src": "portada-4.jpg",
+        "x": 50,
+        "y": 50,
+        "alt": ""
+      },
+      {
+        "src": "portada-5.jpg",
+        "x": 45,
+        "y": 50,
+        "alt": ""
+      }
+    ],
+    "buttons": [
+      {
+        "label": "Escríbenos por WhatsApp",
+        "action": "wa",
+        "target": "",
+        "msg": "",
+        "style": "primary",
+        "icon": true
+      },
+      {
+        "label": "Ver los espacios",
+        "action": "section",
+        "target": "espacios",
+        "msg": "",
+        "style": "ghost",
+        "icon": false
+      }
+    ]
+  },
+  "intro": {
+    "title": "Un refugio que se ve desde lejos y se recuerda por dentro",
+    "text": "La casa en forma de A, con su fachada de vidrio y madera, domina un jardín con caminos de piedra. Alrededor encontrarás piscina, terraza techada con vista a los cerros, zona de parrilla con horno y cochera amplia para 6 autos. La casa alpina aloja a 4 personas.",
+    "facts": [
+      {
+        "value": "366 m²",
+        "label": "de terreno"
+      },
+      {
+        "value": "24 m²",
+        "label": "de piscina, con cascada de piedra"
+      },
+      {
+        "value": "4 personas",
+        "label": "se alojan en la casa alpina"
+      },
+      {
+        "value": "50 personas",
+        "label": "en eventos y celebraciones"
+      }
+    ]
+  },
+  "why": {
+    "title": "Razones para visitarnos",
+    "items": [
+      {
+        "icon": "casa",
+        "title": "Casa alpina de cristal",
+        "text": "Un triángulo de cristal y madera que se luce de día y de noche."
+      },
+      {
+        "icon": "agua",
+        "title": "Piscina de 24 m²",
+        "text": "Con cascada de piedra e iluminación nocturna."
+      },
+      {
+        "icon": "fuego",
+        "title": "Parrilla y horno",
+        "text": "Para cocinar y compartir bajo techo."
+      },
+      {
+        "icon": "montana",
+        "title": "Terraza con vista",
+        "text": "Techada, con asientos y vista a los cerros."
+      },
+      {
+        "icon": "auto",
+        "title": "Cochera para 6 autos",
+        "text": "Dentro del recinto, sin preocuparte por estacionar."
+      },
+      {
+        "icon": "planta",
+        "title": "Jardín para celebrar",
+        "text": "Césped amplio, muros iluminados y espacio para hasta 50 personas."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Conoce los espacios",
+    "sub": "Toca una foto para verla en pantalla completa.",
+    "categories": [
+      {
+        "id": "todo",
+        "label": "Todo",
+        "icon": "grid"
+      },
+      {
+        "id": "casa",
+        "label": "La casa",
+        "icon": "casa"
+      },
+      {
+        "id": "agua",
+        "label": "Piscina y terraza",
+        "icon": "piscina"
+      },
+      {
+        "id": "jardin",
+        "label": "Jardín y cochera",
+        "icon": "hoja"
+      }
+    ],
+    "slides": [
+      {
+        "cat": "casa",
+        "img": "vista-general.jpg",
+        "alt": "Vista general de la casa alpina, la piscina y el jardín",
+        "title": "Vista general",
+        "text": "La casa alpina, la piscina y el jardín en un solo recinto."
+      },
+      {
+        "cat": "casa",
+        "img": "casa-alpina.jpg",
+        "alt": "Fachada de vidrio de la casa alpina",
+        "title": "La casa alpina",
+        "text": "Fachada de vidrio con marco de madera."
+      },
+      {
+        "cat": "agua",
+        "img": "piscina.jpg",
+        "alt": "Piscina con cascada de piedra",
+        "title": "Piscina de 24 m²",
+        "text": "Con cascada de piedra e iluminación nocturna."
+      },
+      {
+        "cat": "agua",
+        "img": "terraza.jpg",
+        "alt": "Terraza techada con plantas colgantes",
+        "title": "Terraza",
+        "text": "Techada, con asientos y vista a los cerros."
+      },
+      {
+        "cat": "agua",
+        "img": "parrilla.jpg",
+        "alt": "Zona de parrilla y horno de ladrillo",
+        "title": "Parrilla y horno",
+        "text": "Para cocinar y compartir bajo techo."
+      },
+      {
+        "cat": "jardin",
+        "img": "escalera.jpg",
+        "alt": "Escalera de piedra entre el jardín y la piscina",
+        "title": "Jardines y escaleras",
+        "text": "Muros de piedra y senderos iluminados."
+      },
+      {
+        "cat": "jardin",
+        "img": "cochera.jpg",
+        "alt": "Cochera techada con plantas",
+        "title": "Cochera amplia",
+        "text": "Espacio para 6 autos dentro del recinto."
+      },
+      {
+        "cat": "jardin",
+        "img": "jardin.jpg",
+        "alt": "Jardín amplio con césped",
+        "title": "Jardín",
+        "text": "Césped amplio para jugar y reunirse."
+      },
+      {
+        "cat": "casa",
+        "img": "ingreso.jpg",
+        "alt": "Ingreso a la Posada del Fundador",
+        "title": "Ingreso",
+        "text": "Portón de madera y acceso privado."
+      }
+    ]
+  },
+  "packs": {
+    "title": "Elige tu experiencia",
+    "sub": "",
+    "items": [
+      {
+        "img": "casa-alpina.jpg",
+        "alt": "Escapada en pareja",
+        "title": "Escapada en pareja",
+        "text": "Escápate a la casa alpina de cristal y madera, con atardecer en la terraza, piscina y parrilla con horno.",
+        "button": "Ver disponibilidad",
+        "msg": "Hola, quisiera consultar disponibilidad para una escapada en pareja en la casa alpina de la Posada del Fundador.",
+        "modalTitle": "Atardecer entre cristal y madera",
+        "modalText": "Cuando cae el sol, la casa alpina se enciende: el cristal refleja el cielo y la madera se vuelve cálida. Brinden en la terraza con los cerros de fondo, dejen que la piscina brille bajo las luces y compartan una parrillada con horno. Un plan íntimo, lejos del ruido, para volver a mirarse con calma."
+      },
+      {
+        "img": "familia.jpg",
+        "alt": "Familia y amigos",
+        "title": "Familia y amigos",
+        "text": "Disfruta de la piscina entre amigos y familia, con jardín, parrilla y cochera para 6 autos.",
+        "button": "Ver disponibilidad",
+        "msg": "Hola, quisiera consultar disponibilidad para disfrutar de la piscina con mi familia o amigos en la Posada del Fundador.",
+        "modalTitle": "Días de piscina y buena compañía",
+        "modalText": "Una piscina de 24 m² con cascada de piedra, césped suave para correr descalzo y una parrilla lista para el almuerzo largo. Los niños juegan, los mayores conversan y todos se sienten en casa. Todo dentro de un mismo recinto, con cochera para 6 autos, para que lo único que organices sea la risa."
+      },
+      {
+        "img": "explanada.jpg",
+        "alt": "Solo la explanada",
+        "title": "Solo la explanada",
+        "text": "Alquila solo el área abierta, con la terraza como escenario, para tu reunión o actividad.",
+        "button": "Cotizar explanada",
+        "msg": "Hola, quisiera consultar por el alquiler solo de la explanada de la Posada del Fundador.",
+        "modalTitle": "Tu escenario al aire libre",
+        "modalText": "La terraza techada se convierte en escenario y el jardín en un salón abierto con vista a los cerros. Un espacio amplio, iluminado y listo para tu reunión, programa o actividad, con piscina, parrilla y cochera a un paso. Tú pones la idea; el lugar pone el atardecer."
+      },
+      {
+        "img": "parrilla.jpg",
+        "alt": "Zona de parrilla y horno de ladrillo",
+        "title": "Parrillada con horno",
+        "text": "Zona de parrilla y horno de ladrillo bajo techo, para cocinar y compartir con los tuyos.",
+        "button": "Ver disponibilidad",
+        "msg": "Hola, quisiera consultar disponibilidad para una parrillada con horno en la Posada del Fundador.",
+        "modalTitle": "El sabor de compartir",
+        "modalText": "Una zona de parrilla y horno de ladrillo bajo techo, donde el fuego reúne a todos. Prepara tus carnes o tu receta favorita mientras el aroma invita a la mesa. Cocina sin prisa, brinda y conversa entre amigos y familia, en uno de los rincones más acogedores de la posada."
+      },
+      {
+        "img": "escalera.jpg",
+        "alt": "Escalera de piedra iluminada entre el jardín y la piscina",
+        "title": "Sesión de fotos",
+        "text": "Muros de piedra, escaleras iluminadas y atardeceres de postal: el fondo ideal para tus fotos.",
+        "button": "Ver disponibilidad",
+        "msg": "Hola, quisiera consultar disponibilidad para una sesión de fotos en la Posada del Fundador.",
+        "modalTitle": "Un rincón de postal",
+        "modalText": "Muros de piedra con luces cálidas, escaleras entre el jardín y la piscina, y un cielo que se tiñe de rosa y dorado al atardecer. Cada rincón de la posada es un fondo distinto, ideal para fotos de pareja, de familia o de tu celebración. Trae la cámara: aquí todo sale bonito."
+      }
+    ]
+  },
+  "events": {
+    "title": "Momentos inolvidables",
+    "sub": "Cumpleaños, aniversarios y reuniones familiares para hasta 50 personas, con piscina, parrilla y cochera dentro del recinto.",
+    "items": [
+      {
+        "img": "eventos-invitados.jpg",
+        "alt": "Mesas y sillas armadas para una celebración con luces",
+        "title": "Hasta 50 invitados",
+        "text": "Un jardín que se adapta a tu decoración.",
+        "modalTitle": "Una mesa larga bajo las luces",
+        "modalText": "Mesas puestas, luces cálidas y un jardín que se viste a tu gusto para recibir hasta 50 invitados. Celebra aniversarios, reuniones familiares o encuentros con amigos, con piscina, parrilla y espacio de sobra para bailar y conversar. Nosotros ponemos el lugar; tú pones la historia."
+      },
+      {
+        "img": "eventos-terraza.jpg",
+        "alt": "Terraza usada como escenario en una fiesta",
+        "title": "La terraza como escenario",
+        "text": "Ideal para música y programas.",
+        "modalTitle": "Donde la música cobra vida",
+        "modalText": "La terraza techada se transforma en escenario para música en vivo, shows y programas, con el jardín como platea y los cerros como telón de fondo. Luces, sonido y un entorno que hace que cada presentación se sienta especial."
+      },
+      {
+        "img": "eventos-jardin-noche.jpg",
+        "alt": "Jardín iluminado de noche durante una fiesta",
+        "title": "El jardín de noche",
+        "text": "Muros iluminados y espacio libre para jugar.",
+        "modalTitle": "Un jardín que brilla de noche",
+        "modalText": "Muros iluminados, césped amplio y un ambiente que cambia cuando cae la noche. Un espacio libre para jugar, bailar y reunirse bajo las luces, con la calidez de una casa de campo y la comodidad de tenerlo todo en un solo lugar."
+      },
+      {
+        "img": "eventos-piscina.jpg",
+        "alt": "Amigos disfrutando en la piscina",
+        "title": "Amigos en la piscina",
+        "text": "Para refrescarse y compartir en la piscina de 24 m².",
+        "modalTitle": "Risas que se contagian",
+        "modalText": "Una piscina de 24 m² con cascada de piedra e iluminación para refrescarse y compartir. Entre chapuzones y conversación se arman los recuerdos que después todos quieren repetir."
+      }
+    ],
+    "features": [
+      "*50* personas",
+      "Piscina de *24 m²*",
+      "Parrilla y horno",
+      "Terraza con vista a los cerros",
+      "Cochera para *6 autos*",
+      "Jardín iluminado"
+    ],
+    "button": "Cotizar mi evento",
+    "msg": "Hola, quisiera cotizar un evento (cumpleaños o celebración) en la Posada del Fundador."
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      {
+        "q": "¿A qué hora se ingresa y se sale?",
+        "a": "Para pernoctar, el ingreso es desde las 5:00 p. m. y la salida es al mediodía del día siguiente."
+      },
+      {
+        "q": "¿Cuántas personas pueden dormir?",
+        "a": "La casa alpina aloja a 4 personas para pernoctar."
+      },
+      {
+        "q": "¿Cuántas personas entran en un evento?",
+        "a": "Hasta 50 personas, en el jardín, junto a la piscina y la zona de parrilla."
+      },
+      {
+        "q": "¿Hay estacionamiento?",
+        "a": "Sí. La cochera es amplia, está dentro del recinto y tiene espacio para 6 autos."
+      },
+      {
+        "q": "¿Se puede alquilar solo la explanada?",
+        "a": "Sí. Puedes consultar por el alquiler solo del área abierta, sin necesidad de hospedarte."
+      },
+      {
+        "q": "¿Cómo reservo y cuánto cuesta?",
+        "a": "Escríbenos por WhatsApp con tu fecha y el número de personas. Te confirmamos disponibilidad y precio."
+      }
+    ]
+  },
+  "location": {
+    "mapTitle": "Cómo llegar",
+    "mapSub": "Te esperamos en Arequipa. Abre la ubicación exacta y la ruta desde donde estés.",
+    "lat": "-16.4685377",
+    "lng": "-71.5496706",
+    "mapsUrl": "https://maps.app.goo.gl/yRfcS7CpeEQKyTVJ8?g_st=ac",
+    "btn1": "Ver en Google Maps",
+    "btn2": "Cómo llegar desde mi ubicación",
+    "condTitle": "Para que todo salga perfecto",
+    "condSub": "Pautas sencillas para que tú y todos los visitantes disfruten sin contratiempos.",
+    "conditions": [
+      {
+        "title": "Reservas",
+        "points": [
+          "Las reservas se coordinan por WhatsApp. Indícanos la fecha y el número de personas, y te confirmamos disponibilidad y precio.",
+          "Para reservar debes ser mayor de 18 años y responsable del grupo que asistirá.",
+          "Pedimos un uso respetuoso del lugar. No aceptamos reservas con fines ofensivos, vulgares o contrarios a la moral y las buenas costumbres."
+        ]
+      },
+      {
+        "title": "Modificaciones de reserva",
+        "points": [
+          "Comunica cualquier cambio por WhatsApp con 3 días hábiles de anticipación a la fecha acordada.",
+          "Las modificaciones dependen de la disponibilidad y, de ser el caso, de un reajuste de tarifa.",
+          "Se permite una única modificación por reserva. Una vez utilizada, no corresponde devolución ni compensación de ningún tipo."
+        ]
+      },
+      {
+        "title": "Anulación de reserva",
+        "points": [
+          "No se realizan devoluciones de dinero por modificación o anulación de los servicios de hospedaje, alquiler de espacios o eventos de cualquier tipo."
+        ]
+      },
+      {
+        "title": "Piscina",
+        "points": [
+          "Lleva tus útiles de baño y de aseo personal.",
+          "El uso de gorro de piscina es obligatorio.",
+          "Los niños deben estar siempre acompañados por un adulto responsable."
+        ]
+      },
+      {
+        "title": "Mascotas",
+        "points": [
+          "Pueden ingresar con su debido arnés y siempre acompañadas por su dueño en las áreas comunes. Avísanos al reservar.",
+          "No se permite el ingreso de mascotas al área de la piscina, por motivos de salubridad.",
+          "El cuidado es responsabilidad del dueño: debe recoger sus residuos y llevar lo necesario (bolsas, toallitas, platos y comederos).",
+          "Los alimentos de la mascota se sirven únicamente en sus comederos, nunca directamente sobre el piso.",
+          "Cualquier situación inesperada, peligrosa o daño material ocasionado por una mascota será asumido íntegramente por su dueño."
+        ]
+      },
+      {
+        "title": "Uso de los espacios",
+        "points": [
+          "El aforo máximo para eventos es de 50 personas.",
+          "Si deseas usar la zona de parrilla y horno, indícalo al reservar para coordinar su uso.",
+          "Los daños materiales a las instalaciones serán asumidos por quien realizó la reserva."
+        ]
+      },
+      {
+        "title": "Pertenencias",
+        "points": [
+          "Los objetos de valor deben ser cuidados por sus propietarios. La Posada no se responsabiliza por la pérdida o el daño de pertenencias perdidas u olvidadas en el recinto.",
+          "Respeta la privacidad de los demás asistentes."
+        ]
+      }
+    ],
+    "condButton": "Resolver una duda por WhatsApp",
+    "condMsg": "Hola, tengo una consulta sobre las condiciones de reserva de la Posada del Fundador."
+  },
+  "contact": {
+    "title": "Fechas y precios",
+    "text": "Cuéntanos cuándo y cuántos son. Te abrimos WhatsApp con el mensaje listo para enviar.",
+    "note": "Los precios se confirman por WhatsApp según fecha y número de personas.",
+    "lblIn": "Llegada",
+    "lblOut": "Salida",
+    "lblPeople": "Personas",
+    "lblMotive": "Motivo",
+    "lblName": "Tu nombre",
+    "phName": "Nombre",
+    "phPeople": "Ej. 8",
+    "motives": [
+      "Descanso",
+      "Reunión familiar",
+      "Cumpleaños",
+      "Evento",
+      "Solo la explanada",
+      "Otro"
+    ],
+    "submit": "Escribir por WhatsApp",
+    "msgIntro": "Hola, soy {nombre}. Quisiera consultar por la casa alpina de la Posada del Fundador.",
+    "msgOutro": "¿Tienen disponibilidad y cuál es el precio?",
+    "logo": "logo.jpg",
+    "logoAlt": "Logo Posada del Fundador: Tu experiencia, nuestra historia"
+  },
+  "footer": {
+    "tagline": "Tu experiencia, nuestra historia",
+    "socialLabel": "Síguenos en nuestras redes",
+    "text": "Posada del Fundador, casa alpina en Yanahuara, Arequipa",
+    "socials": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=61595319208727",
+        "icon": "facebook"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/posada_fundador/",
+        "icon": "instagram"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@posada_fundador",
+        "icon": "tiktok"
+      }
+    ]
+  }
+}

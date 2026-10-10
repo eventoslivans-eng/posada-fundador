@@ -1,0 +1,36 @@
+# Netlify: sin paso de compilación, se publica la carpeta tal cual.
+[build]
+  publish = "."
+
+# El contenido editable se revisa en cada visita para que los cambios del panel aparezcan al instante.
+[[headers]]
+  for = "/config.json"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/site.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/site.css"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+# El panel no debe aparecer en Google.
+[[headers]]
+  for = "/admin.html"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    Cache-Control = "no-store"
+
+[[redirects]]
+  from = "/admin"
+  to = "/admin.html"
+  status = 200
