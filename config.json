@@ -1,6 +1,6 @@
 {
   "meta": {
-    "rev": "2026-10-10T21:03:39.645Z-k0460"
+    "rev": "2026-10-11T02:31:19.677Z-h15wr"
   },
   "site": {
     "brand": "Posada del Fundador",
@@ -21,7 +21,7 @@
   },
   "theme": {
     "preset": "dorado",
-    "fontPreset": "clasico",
+    "fontPreset": "custom",
     "colors": {
       "ink": "#0c0d10",
       "panel": "#15171c",
@@ -34,14 +34,14 @@
     },
     "mode": "dark",
     "fonts": {
-      "heading": "Playfair Display",
-      "script": "Great Vibes",
-      "body": "Jost"
+      "heading": "DM Serif Display",
+      "script": "Dancing Script",
+      "body": "Nunito Sans"
     },
     "baseSize": 17,
     "radius": 8,
-    "buttons": "pill",
-    "heroDim": 100
+    "buttons": "square",
+    "heroDim": 150
   },
   "menu": [
     {
@@ -121,8 +121,8 @@
   ],
   "hero": {
     "kicker": "",
-    "title": "Tu casa alpina de cristal y madera",
-    "text": "Un refugio de cristal y madera entre jardines, piscina y terraza con vista a los cerros. Ven a descansar, celebrar y crear recuerdos que se quedan contigo.",
+    "title": "𝐓𝐔 𝐂𝐀𝐒𝐀 𝐀𝐋𝐏𝐈𝐍𝐀 𝐃𝐄 𝐂𝐑𝐈𝐒𝐓𝐀𝐋 𝐘 𝐌𝐀𝐃𝐄𝐑𝐀",
+    "text": "𝖴𝗇 𝗋𝖾𝖿𝗎𝗀𝗂𝗈 𝖽𝖾 𝖼𝗋𝗂𝗌𝗍𝖺𝗅 𝗒 𝗆𝖺𝖽𝖾𝗋𝖺, 𝖾𝗇𝗆𝖺𝗋𝖼𝖺𝖽𝗈 𝗉𝗈𝗋 𝗃𝖺𝗋𝖽𝗂𝗇𝖾𝗌, 𝗉𝗂𝗌𝖼𝗂𝗇𝖺 𝗒 𝗎𝗇𝖺 𝗍𝖾𝗋𝗋𝖺𝗓𝖺 𝖼𝗈𝗇 𝗏𝗂𝗌𝗍𝖺 𝖺𝗅 𝗉𝖺𝗂𝗌𝖺𝗃𝖾. 𝖴𝗇 𝗅𝗎𝗀𝖺𝗋 𝗉𝖺𝗋𝖺 𝖽𝖾𝗌𝖼𝖺𝗇𝗌𝖺𝗋, 𝖼𝖾𝗅𝖾𝖻𝗋𝖺𝗋 𝗒 𝖼𝗋𝖾𝖺𝗋 𝗋𝖾𝖼𝗎𝖾𝗋𝖽𝗈𝗌 𝗂𝗇𝗈𝗅𝗏𝗂𝖽𝖺𝖻𝗅𝖾𝗌. 𝖵𝖾𝗇 𝖺 𝗏𝗂𝗏𝗂𝗋 𝗅𝖺 𝖾𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝗂𝖺 𝖾𝗇 𝖯𝗈𝗌𝖺𝖽𝖺 𝖽𝖾𝗅 𝖥𝗎𝗇𝖽𝖺𝖽𝗈𝗋.",
     "images": [
       {
         "src": "portada-1.jpg",
@@ -175,8 +175,8 @@
     ]
   },
   "intro": {
-    "title": "Un refugio que se ve desde lejos y se recuerda por dentro",
-    "text": "La casa en forma de A, con su fachada de vidrio y madera, domina un jardín con caminos de piedra. Alrededor encontrarás piscina, terraza techada con vista a los cerros, zona de parrilla con horno y cochera amplia para 6 autos. La casa alpina aloja a 4 personas.",
+    "title": "Una arquitectura que distingue, una experiencia que perdura ✨",
+    "text": "Disfruta de una acogedora casa en forma de A, rodeada de jardines con caminos de piedra, piscina, terraza techada, zona de parrilla con horno y cochera privada. La casa tiene capacidad para 4 personas, ideal para disfrutar de una escapada especial y compartir momentos inolvidables.",
     "facts": [
       {
         "value": "366 m²",
@@ -189,50 +189,46 @@
       {
         "value": "4 personas",
         "label": "se alojan en la casa alpina"
-      },
-      {
-        "value": "50 personas",
-        "label": "en eventos y celebraciones"
       }
     ]
   },
   "why": {
-    "title": "Razones para visitarnos",
+    "title": "𝐑𝐀𝐙𝐎𝐍𝐄𝐒 𝐏𝐀𝐑𝐀 𝐕𝐈𝐒𝐈𝐓𝐀𝐑𝐍𝐎𝐒",
     "items": [
       {
         "icon": "casa",
-        "title": "Casa alpina de cristal",
+        "title": "𝖢𝖺𝗌𝖺 𝖠𝗅𝗉𝗂𝗇𝖺 𝖽𝖾 𝖢𝗋𝗂𝗌𝗍𝖺𝗅",
         "text": "Un triángulo de cristal y madera que se luce de día y de noche."
       },
       {
         "icon": "agua",
-        "title": "Piscina de 24 m²",
+        "title": "𝖯𝗂𝗌𝖼𝗂𝗇𝖺 𝖽𝖾 𝟤𝟦 𝗆²",
         "text": "Con cascada de piedra e iluminación nocturna."
       },
       {
         "icon": "fuego",
-        "title": "Parrilla y horno",
+        "title": "𝖯𝖺𝗋𝗋𝗂𝗅𝗅𝖺 𝗒 𝖧𝗈𝗋𝗇𝗈",
         "text": "Para cocinar y compartir bajo techo."
       },
       {
         "icon": "montana",
-        "title": "Terraza con vista",
+        "title": "𝖳𝖾𝗋𝗋𝖺𝗓𝖺 𝖼𝗈𝗇 𝖵𝗂𝗌𝗍𝖺 𝖯𝖺𝗇𝗈𝗋𝖺́𝗆𝗂𝖼𝖺",
         "text": "Techada, con asientos y vista a los cerros."
       },
       {
         "icon": "auto",
-        "title": "Cochera para 6 autos",
+        "title": "𝖢𝗈𝖼𝗁𝖾𝗋𝖺 𝖯𝗋𝗂𝗏𝖺𝖽𝖺",
         "text": "Dentro del recinto, sin preocuparte por estacionar."
       },
       {
         "icon": "planta",
-        "title": "Jardín para celebrar",
+        "title": "𝖩𝖺𝗋𝖽𝗂́𝗇 𝗉𝖺𝗋𝖺 𝖢𝖾𝗅𝖾𝖻𝗋𝖺𝖼𝗂𝗈𝗇𝖾𝗌",
         "text": "Césped amplio, muros iluminados y espacio para hasta 50 personas."
       }
     ]
   },
   "gallery": {
-    "title": "Conoce los espacios",
+    "title": "𝐂𝐎𝐍𝐎𝐂𝐄 𝐋𝐎𝐒 𝐄𝐒𝐏𝐀𝐂𝐈𝐎𝐒",
     "sub": "Toca una foto para verla en pantalla completa.",
     "categories": [
       {
@@ -323,8 +319,8 @@
     ]
   },
   "packs": {
-    "title": "Elige tu experiencia",
-    "sub": "",
+    "title": "𝐄𝐋𝐈𝐆𝐄 𝐓𝐔 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐈𝐀",
+    "sub": "𝖢𝖺𝖽𝖺 𝗈𝖼𝖺𝗌𝗂𝗈́𝗇 𝗆𝖾𝗋𝖾𝖼𝖾 𝗎𝗇 𝖾𝗌𝖼𝖾𝗇𝖺𝗋𝗂𝗈 𝖾𝗌𝗉𝖾𝖼𝗂𝖺𝗅. 𝖣𝖾𝗌𝖼𝗎𝖻𝗋𝖾 𝗇𝗎𝖾𝗌𝗍𝗋𝗈𝗌 𝗉𝖺𝗊𝗎𝖾𝗍𝖾𝗌 𝗒 𝖾𝗅𝗂𝗀𝖾 𝗅𝖺 𝖾𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝗂𝖺 𝗂𝖽𝖾𝖺𝗅 𝗉𝖺𝗋𝖺 𝗍𝗂, 𝗒𝖺 𝗌𝖾𝖺 𝗎𝗇𝖺 𝖾𝗌𝖼𝖺𝗉𝖺𝖽𝖺 𝗋𝗈𝗆𝖺́𝗇𝗍𝗂𝖼𝖺, 𝗎𝗇 𝖽𝗂́𝖺 𝖾𝗇 𝖿𝖺𝗆𝗂𝗅𝗂𝖺 𝗈 𝗎𝗇𝖺 𝖼𝖾𝗅𝖾𝖻𝗋𝖺𝖼𝗂𝗈́𝗇 𝗂𝗇𝗈𝗅𝗏𝗂𝖽𝖺𝖻𝗅𝖾.",
     "items": [
       {
         "img": "casa-alpina.jpg",
@@ -379,8 +375,8 @@
     ]
   },
   "events": {
-    "title": "Momentos inolvidables",
-    "sub": "Cumpleaños, aniversarios y reuniones familiares para hasta 50 personas, con piscina, parrilla y cochera dentro del recinto.",
+    "title": "𝐌𝐎𝐌𝐄𝐍𝐓𝐎𝐒 𝐈𝐍𝐎𝐋𝐕𝐈𝐃𝐀𝐁𝐋𝐄𝐒",
+    "sub": "𝖢𝗎𝗆𝗉𝗅𝖾𝖺ñ𝗈𝗌, 𝖺𝗇𝗂𝗏𝖾𝗋𝗌𝖺𝗋𝗂𝗈𝗌 𝗒 𝗋𝖾𝗎𝗇𝗂𝗈𝗇𝖾𝗌 𝖿𝖺𝗆𝗂𝗅𝗂𝖺𝗋𝖾𝗌 𝖼𝗈𝖻𝗋𝖺𝗇 𝗏𝗂𝖽𝖺 𝖾𝗇 𝗎𝗇 𝖾𝗌𝖼𝖾𝗇𝖺𝗋𝗂𝗈 𝖾𝗌𝗉𝖾𝖼𝗂𝖺𝗅, 𝖼𝗈𝗇 𝗉𝗂𝗌𝖼𝗂𝗇𝖺, 𝗓𝗈𝗇𝖺 𝖽𝖾 𝗉𝖺𝗋𝗋𝗂𝗅𝗅𝖺 𝗒 𝖼𝗈𝖼𝗁𝖾𝗋𝖺 𝖽𝖾𝗇𝗍𝗋𝗈 𝖽𝖾𝗅 𝗋𝖾𝖼𝗂𝗇𝗍𝗈. 𝖢𝗈𝗆𝗉𝖺𝗋𝗍𝖾, 𝖼𝖾𝗅𝖾𝖻𝗋𝖺 𝗒 𝖼𝗋𝖾𝖺 𝗋𝖾𝖼𝗎𝖾𝗋𝖽𝗈𝗌 𝗂𝗇𝗈𝗅𝗏𝗂𝖽𝖺𝖻𝗅𝖾𝗌 𝖾𝗇 𝖯𝗈𝗌𝖺𝖽𝖺 𝖽𝖾𝗅 𝖥𝗎𝗇𝖽𝖺𝖽𝗈𝗋. 🤍",
     "items": [
       {
         "img": "eventos-invitados.jpg",
@@ -416,18 +412,17 @@
       }
     ],
     "features": [
-      "*50* personas",
-      "Piscina de *24 m²*",
+      "Piscina de *24²*",
       "Parrilla y horno",
       "Terraza con vista a los cerros",
-      "Cochera para *6 autos*",
+      "Cochera Privada",
       "Jardín iluminado"
     ],
     "button": "Cotizar mi evento",
     "msg": "Hola, quisiera cotizar un evento (cumpleaños o celebración) en la Posada del Fundador."
   },
   "faq": {
-    "title": "Preguntas frecuentes",
+    "title": "𝐏𝐑𝐄𝐆𝐔𝐍𝐓𝐀𝐒 𝐅𝐑𝐄𝐂𝐔𝐄𝐍𝐓𝐄𝐒",
     "items": [
       {
         "q": "¿A qué hora se ingresa y se sale?",
@@ -456,14 +451,14 @@
     ]
   },
   "location": {
-    "mapTitle": "Cómo llegar",
+    "mapTitle": "𝐂𝐎́𝐌𝐎 𝐋𝐋𝐄𝐆𝐀𝐑",
     "mapSub": "Te esperamos en Arequipa. Abre la ubicación exacta y la ruta desde donde estés.",
     "lat": "-16.4685377",
     "lng": "-71.5496706",
     "mapsUrl": "https://maps.app.goo.gl/yRfcS7CpeEQKyTVJ8?g_st=ac",
     "btn1": "Ver en Google Maps",
     "btn2": "Cómo llegar desde mi ubicación",
-    "condTitle": "Para que todo salga perfecto",
+    "condTitle": "𝐏𝐀𝐑𝐀 𝐐𝐔𝐄 𝐓𝐎𝐃𝐎 𝐒𝐀𝐋𝐆𝐀 𝐏𝐄𝐑𝐅𝐄𝐂𝐓𝐎",
     "condSub": "Pautas sencillas para que tú y todos los visitantes disfruten sin contratiempos.",
     "conditions": [
       {
@@ -526,8 +521,8 @@
     "condMsg": "Hola, tengo una consulta sobre las condiciones de reserva de la Posada del Fundador."
   },
   "contact": {
-    "title": "Fechas y precios",
-    "text": "Cuéntanos cuándo y cuántos son. Te abrimos WhatsApp con el mensaje listo para enviar.",
+    "title": "𝐅𝐄𝐂𝐇𝐀𝐒 𝐘 𝐏𝐑𝐄𝐂𝐈𝐎𝐒",
+    "text": "𝖢𝗎𝖾́𝗇𝗍𝖺𝗇𝗈𝗌 𝗊𝗎𝖾́ 𝗈𝖼𝖺𝗌𝗂𝗈́𝗇 𝗊𝗎𝗂𝖾𝗋𝖾𝗌 𝖼𝖾𝗅𝖾𝖻𝗋𝖺𝗋, 𝗅𝖺 𝖿𝖾𝖼𝗁𝖺 𝗒 𝖼𝗎𝖺́𝗇𝗍𝖺𝗌 𝗉𝖾𝗋𝗌𝗈𝗇𝖺𝗌 𝗍𝖾 𝖺𝖼𝗈𝗆𝗉𝖺ñ𝖺𝗋𝖺́𝗇.  𝖧𝖺𝗓 𝖼𝗅𝗂𝖼 𝗒 𝖼𝗈𝗇𝗍𝖺́𝖼𝗍𝖺𝗇𝗈𝗌 𝗉𝗈𝗋 𝖶𝗁𝖺𝗍𝗌𝖠𝗉𝗉 𝗉𝖺𝗋𝖺 𝗉𝗅𝖺𝗇𝖾𝖺𝗋 𝗃𝗎𝗇𝗍𝗈𝗌 𝗎𝗇𝖺 𝖾𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝗂𝖺 𝗂𝗇𝗈𝗅𝗏𝗂𝖽𝖺𝖻𝗅𝖾 𝖾𝗇 𝖯𝗈𝗌𝖺𝖽𝖺 𝖽𝖾𝗅 𝖥𝗎𝗇𝖽𝖺𝖽𝗈𝗋. ",
     "note": "Los precios se confirman por WhatsApp según fecha y número de personas.",
     "lblIn": "Llegada",
     "lblOut": "Salida",
