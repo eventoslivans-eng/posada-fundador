@@ -1,6 +1,6 @@
 {
   "meta": {
-    "rev": "2026-10-11T02:35:22.533Z-cone5"
+    "rev": "2026-10-11T02:48:30.349Z-r5exe"
   },
   "site": {
     "brand": "Posada del Fundador",
@@ -38,7 +38,7 @@
       "script": "Dancing Script",
       "body": "Nunito Sans"
     },
-    "baseSize": 16,
+    "baseSize": 15,
     "radius": 8,
     "buttons": "square",
     "heroDim": 160
@@ -335,7 +335,7 @@
       {
         "img": "familia.jpg",
         "alt": "Familia y amigos",
-        "title": "Familia y amigos",
+        "title": "Full Day en piscina",
         "text": "Disfruta de la piscina entre amigos y familia, con jardín, parrilla y cochera para 6 autos.",
         "button": "Ver disponibilidad",
         "msg": "Hola, quisiera consultar disponibilidad para disfrutar de la piscina con mi familia o amigos en la Posada del Fundador.",
@@ -381,7 +381,7 @@
       {
         "img": "eventos-invitados.jpg",
         "alt": "Mesas y sillas armadas para una celebración con luces",
-        "title": "Hasta 50 invitados",
+        "title": "Espacio para tus celebraciones",
         "text": "Un jardín que se adapta a tu decoración.",
         "modalTitle": "Una mesa larga bajo las luces",
         "modalText": "Mesas puestas, luces cálidas y un jardín que se viste a tu gusto para recibir hasta 50 invitados. Celebra aniversarios, reuniones familiares o encuentros con amigos, con piscina, parrilla y espacio de sobra para bailar y conversar. Nosotros ponemos el lugar; tú pones la historia."
