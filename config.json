@@ -1,6 +1,6 @@
 {
   "meta": {
-    "rev": "2026-10-11T02:31:19.677Z-h15wr"
+    "rev": "2026-10-11T02:35:22.533Z-cone5"
   },
   "site": {
     "brand": "Posada del Fundador",
@@ -38,10 +38,10 @@
       "script": "Dancing Script",
       "body": "Nunito Sans"
     },
-    "baseSize": 17,
+    "baseSize": 16,
     "radius": 8,
     "buttons": "square",
-    "heroDim": 150
+    "heroDim": 160
   },
   "menu": [
     {
@@ -175,7 +175,7 @@
     ]
   },
   "intro": {
-    "title": "Una arquitectura que distingue, una experiencia que perdura ✨",
+    "title": "Una arquitectura que distingue, una experiencia que perdura.",
     "text": "Disfruta de una acogedora casa en forma de A, rodeada de jardines con caminos de piedra, piscina, terraza techada, zona de parrilla con horno y cochera privada. La casa tiene capacidad para 4 personas, ideal para disfrutar de una escapada especial y compartir momentos inolvidables.",
     "facts": [
       {
